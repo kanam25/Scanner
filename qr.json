@@ -334,5 +334,9 @@
     {
         "Event":"W_Physics",
         "ID":["sample@drngpit.ac.in"]
+    },
+    {
+        "Event":"Registration_Committee",
+        "ID":["23cb003@drngpit.ac.in"]
     }
 ]
